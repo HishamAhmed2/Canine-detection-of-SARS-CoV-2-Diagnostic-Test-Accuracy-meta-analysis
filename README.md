@@ -1,6 +1,6 @@
 # Canine-detection-of-SARS-CoV-2-Diagnostic-Test-Accuracy-meta-analysis
 
-This project is an exploratory diagnostic test accuracy (DTA) meta-analysis investigating the ability of dogs to detect SARS-CoV-2 through olfactory means. The analysis includes data from six papers, which were subject to significant variations in the methods of result collection and had some missing information regarding the performance of individual dogs. Therefore, this analysis is intended for exploratory purposes.
+This project is an exploratory diagnostic test accuracy (DTA) meta-analysis investigating the ability of dogs to detect SARS-CoV-2 through olfactory route. The analysis includes data from six papers, which were subject to significant variations in the methods of result collection and had some missing information regarding the performance of individual dogs. Therefore, this analysis is intended for exploratory purposes.
 
 ## Analysis Workflow
 
